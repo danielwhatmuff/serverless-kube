@@ -10,6 +10,7 @@ This repo contains a simple app and steps for deploying it to several popular se
 * [OpenFaas](https://www.openfaas.com/)
 * [OpenWhisk](http://openwhisk.incubator.apache.org)
 * [Fn](http://fnproject.io)
+* [Nuclio](https://github.com/nuclio/nuclio)
 
 ## Usage
 See the README's within each frameworks directory.
